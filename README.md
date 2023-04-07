@@ -9,6 +9,8 @@ The grocery industry has its roots in customer service. As such, grocers are alw
 
 
 ## Data Science Steps
+* Download images from Kaggle using link above
+* Delete folders named "Apples D", "Apples E", "Apples F", and "Total Number of Apples"
 * Access the contents of the respective raw image data folders
 * Create a Pandas DataFrame to hold image IDs and correct classification
 * Create directories for our train, validate, and test sets with subdirectories for apples, plums, and tomatoes
