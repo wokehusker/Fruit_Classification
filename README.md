@@ -28,7 +28,7 @@ The grocery industry has its roots in customer service. As such, grocers are alw
 * This technology can be integrated into shopping carts to improve the shopping experience and drive value for grocery stores.
 
 ## Repository Navigation
-* You can find the code for the model in the Jupyter Notebook labeled "Apples and Plums and Tomatoes! Oh My!". 
+* You can find the code for the model in the Jupyter Notebook labeled "Fruit Classification.ipynb". 
 * The folders containing the raw images can be found in the .gitignore. This was done to avoid difficulties uploading the multple GB worth of image data to GitHub. 
 * The folder titled "images" contains images for this ReadME.
 * A PDF copy of the Final Presentation is also included
