@@ -18,3 +18,4 @@ The grocery industry has its roots in customer service. As such, grocers are alw
 * You can find the code for the model in the Jupyter Notebook labeled "Apples and Plums and Tomatoes! Oh My!". 
 * The folders containing the raw images can be found in the .gitignore. This was done to avoid difficulties uploading the multple GB worth of image data to GitHub. 
 * The folder titled "images" contains images for this ReadME.
+* PDF copies of both the Jupyter Notebook and the Final Presentation are also included
